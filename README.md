@@ -1,3 +1,5 @@
 # DAC7_kakao-arena-Melon_Playlist_Continuation [20210227 ~ 20210329]
 
-data download : https://arena.kakao.com/c/7/data 에서 train.json , val.json, test.json 다운을 받는다.
+- The goal of this competition is to predict songs and tags that are not given when half or all of the songs and tags on the playlist are hidden.
+
+-
