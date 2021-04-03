@@ -7,7 +7,7 @@
 ### Competition : [Melon Playlist Continuation](https://arena.kakao.com/c/8)
 - This repo is maintained by 허지혜, 최우철, 강수연
 
-
+[Presentation]
 
 ## Reference
 ```
