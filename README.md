@@ -12,6 +12,9 @@
 
 [[Information]](C:/Users/hu612/Desktop/School/수DA쟁이/Project/팀과제/수연우철/information)
 
+## Infographic
+![SCREENSH](./infographic.png)
+
 
 ## Reference
 ```
